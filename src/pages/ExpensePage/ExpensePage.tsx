@@ -1,4 +1,3 @@
-import FormIncome from "@/components/FormIncome/FormIncome";
 import Error from "@/components/Error/Error";
 import ListTasks from "@/components/ListTasks/ListTasks";
 import Loading from "@/components/Loading/Loading";
