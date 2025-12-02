@@ -6,7 +6,7 @@ export default function PublicRoutes() {
             <div className='flex flex-col gap-10 justify-center h-screen items-center'>
                 <div className='w-1/6'>
                     <Link to="/">
-                        <img src={"https://junglegaming.io/images/logos/logo.svg"} alt="Logo" />
+                        <img src={"../images/logo-pe-de-meia.png"} alt="Logo" />
                     </Link>
                 </div>
                 <div className='w-1/3'>
